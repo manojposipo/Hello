@@ -56,5 +56,18 @@ ajdwiiweffgljooy iiyitorpepw hgjdlwpw tjrheie kgkjgjruow kgjgnsnaq ktjtut  mgmnt
      - Line one
      - Line two
 
-</details>     
+</details>  
 
+**Image:**
+
+![Image](https://images.unsplash.com/photo-1633467119164-b432fa2dbd22?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
+
+### Inline code
+
+this is a `code`
+
+### Block code
+
+```
+print [Hello world!]
+```
